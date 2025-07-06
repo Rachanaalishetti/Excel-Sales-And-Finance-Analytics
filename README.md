@@ -29,7 +29,7 @@
 
     2. Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Rachanaalishetti/Excel-Sales-And-Finance-Analytics/blob/main/P%26L%20Statements%20by%20months%20And%20Quarters.pdf)_
 
-    3. Analyzed Gross Margin % trends across sub-zones[Gross margin%](https://github.com/Rachanaalishetti/Excel-Sales-And-Finance-Analytics/blob/main/GM%25%20by%20Subbzone.pdf)_using AtliQ Hardwares’ data for FY 2019–2021.
+    3. Analyzed [Gross margin%](https://github.com/Rachanaalishetti/Excel-Sales-And-Finance-Analytics/blob/main/GM%25%20by%20Subbzone.pdf)_trends across sub-zones using AtliQ Hardwares’ data for FY 2019–2021.
 
 - **Why Financial Analytics Matters:**
 
@@ -42,8 +42,9 @@
 - **Insights from GM% Analysis:**
 
     - **ROA** and **SE** zones consistently delivered high GM% across all three years.
-    - **India's** GM% dropped significantly in FY 2020 and FY 2021, requiring strategic intervention.
-    - Overall GM% declined from **41.43%** (FY19) to **36.43%** (FY21), indicating rising cost pressures and margin compression.
+    - **India's** GM% dropped significantly in FY 2020 and FY*36.43%** (FY21), indicating rising cost pressures and margin compression.
+    - It help business to Track profitability And Seasonal trends
+
 
 ---
 
